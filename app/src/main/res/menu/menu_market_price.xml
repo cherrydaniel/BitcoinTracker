@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_refresh"
+        android:title="@string/action_refresh"
+        android:icon="@drawable/ic_refresh"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_show_30_days"
+        android:title="@string/action_show_30_days"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_show_60_days"
+        android:title="@string/show_action_60_days"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_show_180_days"
+        android:title="@string/show_action_180_days"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_show_1_year"
+        android:title="@string/show_action_1_year"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_show_2_years"
+        android:title="@string/show_action_2_years"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_show_all_time"
+        android:title="@string/show_action_all_time"
+        app:showAsAction="never"/>
+
+</menu>

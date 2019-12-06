@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">BitcoinTracker</string>
+
+    <!-- Toolbar -->
+    <string name="fetch_time">Last fetched: %s</string>
+
+    <!-- Connectivity -->
+    <string name="no_connection">Unable to fetch data, please check your internet connection.</string>
+    <string name="ok">OK</string>
+
+    <!-- Main Options Menu -->
+    <string name="action_refresh">Refresh</string>
+    <string name="action_show_30_days">30 Days</string>
+    <string name="show_action_60_days">60 Days</string>
+    <string name="show_action_180_days">180 Days</string>
+    <string name="show_action_1_year">1 Year</string>
+    <string name="show_action_2_years">2 Years</string>
+    <string name="show_action_all_time">All Time</string>
+
+</resources>
